@@ -1,0 +1,12 @@
+---
+title: Core Assignment
+author: "Glafira Ermakova"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+![Flow Chart](/Users/glafiraermakova/Documents/GitHub/core_assignment/flowchart1.jpg)
